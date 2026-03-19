@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# mi programa de hardware - PC builder
-# autor: kevin
+
 
 import re
 from abc import ABC, abstractmethod
